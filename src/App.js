@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CatComponent from './CatComponent.js'
-import { FordQuoteComponent } from './FordQuoteComponent'
+import { EinsteinQuoteComponent } from './EinsteinQuoteComponent';
 import MouseComponent from '../MouseComponent'
 
 class App extends Component {
